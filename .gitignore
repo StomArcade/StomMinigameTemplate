@@ -122,5 +122,5 @@ run/
 .settings/
 
 # gradle
-./.gradle
-./build
+/.gradle
+/build
